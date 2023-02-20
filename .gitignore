@@ -1,0 +1,6 @@
+target/
+.idea/**
+/src/test/resources/parallel/features/
+/src/test/java/parallel/
+/src/test/resources/CucumberReports
+cucable-test-project.iml
